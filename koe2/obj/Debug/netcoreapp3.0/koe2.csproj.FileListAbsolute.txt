@@ -1,0 +1,11 @@
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\bin\Debug\netcoreapp3.0\koe2.exe
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\bin\Debug\netcoreapp3.0\koe2.deps.json
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\bin\Debug\netcoreapp3.0\koe2.runtimeconfig.json
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\bin\Debug\netcoreapp3.0\koe2.runtimeconfig.dev.json
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\bin\Debug\netcoreapp3.0\koe2.dll
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\bin\Debug\netcoreapp3.0\koe2.pdb
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\obj\Debug\netcoreapp3.0\koe2.csprojAssemblyReference.cache
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\obj\Debug\netcoreapp3.0\koe2.AssemblyInfoInputs.cache
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\obj\Debug\netcoreapp3.0\koe2.AssemblyInfo.cs
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\obj\Debug\netcoreapp3.0\koe2.dll
+D:\jako\SSD-profiles\Documents\Visual Studio code\Projects\koe2\obj\Debug\netcoreapp3.0\koe2.pdb
